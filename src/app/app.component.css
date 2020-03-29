@@ -5,9 +5,9 @@
 form {
     background-color: lightgrey;
     padding: 1rem;
-    margin-top: 2rem;
+    margin: 2rem 0 0 0;
 }
 
-app-article {
-    margin-top: 2rem;
+app-article-list {
+    margin: 2rem 0 0 0;
 }
